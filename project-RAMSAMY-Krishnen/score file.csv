@@ -1,0 +1,21 @@
+PlayerName,PlayerAge,Question,Options,CorrectAnswer,UserResponse
+mike,51,What is the capital of France?,"['Rome', 'Paris', 'Berlin']",2,1
+mike,51,Which animal is known as the King of the Jungle?,"['Elephant', 'Horse', 'Lion']",3,1
+mike,51,"Who is known as the ""Queen of Pop""?","['Britney Spears', 'Madonna', 'Lady Gaga']",2,1
+mike,51,In which city would you find the Eiffel Tower?,"['Paris', 'London', 'New York']",1,1
+mike,51,What's the name of the river that runs through Egypt?,"['Amazon', 'Mississippi', 'Nile']",3,1
+mike,51,"Who is the author of the novel ""The Great Gatsby""?","['F. Scott Fitzgerald', 'Ernest Hemingway', 'Mark Twain']",1,1
+mike,51,Which animal is the symbol of WWF (World Wildlife Fund)?,"['Elephant', 'Panda', 'Tiger']",2,1
+mike,51,What is the capital of Japan?,"['Tokyo', 'Seoul', 'Beijing']",1,1
+mike,51,"Which fruit is known as the ""king of fruits"" and is famous for its odor?","['Apple', 'Orange', 'Durian']",3,1
+mike,51,"Which planet is known as the ""Ringed Planet""?","['Mercury', 'Venus', 'Saturn']",3,1
+mike,51,Who played Jack Dawson in the movie Titanic?,"['Robert Pattinson', 'Leonardo DiCaprio', 'Johnny Depp']",2,1
+mike,51,In which year did the Titanic sink?,"['1910', '1912', '1914']",2,1
+mike,51,Who is the author of the Harry Potter series?,"['Stephen King', 'Suzanne Collins', 'J.K. Rowling']",3,1
+mike,51,What is the name of the fairy in Peter Pan?,"['Tinker Bell', 'Fairy Godmother', 'Blue Fairy']",1,1
+mike,51,Which movie features a character named Simba?,"['The Jungle Book', 'The Lion King', 'Tarzan']",2,1
+mike,51,Who is the fastest man alive?,"['Usain St. Leo Bolt', 'Michael Phelps', 'Lionel Messi']",2,1
+mike,51,Which planet is the closest to the Sun?,"['Earth', 'Mercury', 'Venus']",2,1
+mike,51,"Which country is known as the ""Land Down Under""?","['New Zealand', 'South Africa', 'Australia']",3,1
+mike,51,Which city is famous for its canals and gondolas?,"['Venice', 'Paris', 'Amsterdam']",1,1
+mike,51,Which animal is known for its unique black and white coloration?,"['Panda', 'Elephant', 'Kangaroo']",1,1
