@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+       #map {
+        height: 400px;
+        width: 100%;
+       }
+       #map2 {
+        height: 400px;
+        width: 100%;
+       }
+    </style>
+    <!-- Plotly.js -->
+   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  </head>
+  <body>
+    <h2>Scatter Plot</h2>
+    <h3>Sample</h3>
+    
+    <br>
+    <h3>Graph</h3>
+   
+    <p>The goal of this project is to </p>
+    
+    
+    <!-- Plotly state chart will be drawn inside this DIV -->
+        <div id="myDiv3"></div>
+
+    <div id="myDiv"><!-- Plotly chart will be drawn inside this DIV --></div>
+    <!-- Plotly world chart will be drawn inside this DIV -->
+        <div id="myDiv2"></div>
+
+  <script>
+    <!-- JAVASCRIPT CODE GOES HERE -->
+    var trace1 = {
+  x: [1, 2, 3, 4],
+  y: [10, 15, 13, 17],
+  mode: 'markers'
+};
+
+var trace2 = {
+  x: [2, 3, 4, 5],
+  y: [16, 5, 11, 10],
+  mode: 'lines'
+};
+
+var trace3 = {
+  x: [1, 2, 3, 4],
+  y: [12, 9, 15, 12],
+  mode: 'lines+markers'
+};
+
+var trace4 = {
+  x: [1, 2, 3, 4],
+  y: [15, 12, 12, 18],
+  mode: 'lines+markers'
+};
+
+var data = [ trace1, trace2, trace3, trace4 ];
+
+var layout = {};
+
+Plotly.newPlot('myDiv', data, layout);
+//next Graph
+
+Plotly.d3.csv('https://raw.githubusercontent.com/plotly/datasets/master/2010_alcohol_consumption_by_country.csv', function(err, rows){
+      function unpack(rows, key) {
+          return rows.map(function(row) { return row[key]; });
+      }
+
+    var data = [{
+        type: 'choropleth',
+        locationmode: 'country names',
+        locations: unpack(rows, 'location'),
+        z: unpack(rows, 'alcohol'),
+        text: unpack(rows, 'location'),
+        autocolorscale: true
+    }];
+
+    var layout = {
+      title: 'Pure alcohol consumption among adults (age 15+) in 2010',
+      geo: {
+          projection: {
+              type: 'robinson'
+          }
+      }
+    };
+
+    Plotly.plot('myDiv2', data, layout, {showLink: false});
+
+});
+
+//states
+Plotly.d3.csv('https://raw.githubusercontent.com/plotly/datasets/master/2011_us_ag_exports.csv', function(err, rows){
+      function unpack(rows, key) {
+          return rows.map(function(row) { return row[key]; });
+      }
+  
+ var data = [{
+              type: 'choropleth',
+              locationmode: 'USA-states',
+              locations: unpack(rows, 'code'),
+              z: unpack(rows, 'total exports'),
+              text: unpack(rows, 'state'),
+              zmin: 0,
+              zmax: 17000,
+              colorscale: [
+                [0, 'rgb(242,240,247)'], [0.2, 'rgb(218,218,235)'],
+                [0.4, 'rgb(188,189,220)'], [0.6, 'rgb(158,154,200)'],
+                [0.8, 'rgb(117,107,177)'], [1, 'rgb(84,39,143)']
+              ],
+            colorbar: {
+              title: 'Millions USD',
+              thickness: 0.2
+            },
+            marker: {
+              line:{
+                color: 'rgb(255,255,255)',
+                width: 2
+              }
+            }
+          }];
+
+console.log(data.locations);
+  var layout = {
+          title: '2011 US Agriculture Exports by State',
+          geo:{
+            scope: 'usa',
+            showlakes: true,
+            lakecolor: 'rgb(255,255,255)'
+          }
+      };
+      Plotly.plot('myDiv3', data, layout, {showLink: false});
+  });
+  </script>
+
+  </body>
+</html>
+      

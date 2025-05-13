@@ -1,0 +1,21 @@
+PlayerName,PlayerAge,Question,Options,CorrectAnswer,UserResponse
+mike,51,Who wrote the play Romeo and Juliet?,"['William Shakespeare', 'J.K. Rowling', 'Mark Twain']",1,1
+mike,51,What is the tallest mountain in the world?,"['Mount Everest', 'K2', 'Mount Kilimanjaro']",1,1
+mike,51,What is the name of the toy cowboy in Toy Story?,"['Zorro', 'Buzz Lightyear', 'Woody']",3,1
+mike,51,What is the name of the coffee shop in the TV show Friends?,"['Bean There Brew That', 'Cuppa Joe', 'Central Perk']",3,1
+mike,51,What's the name of the river that runs through Egypt?,"['Amazon', 'Mississippi', 'Nile']",3,1
+mike,51,Which animal is the symbol of WWF (World Wildlife Fund)?,"['Elephant', 'Panda', 'Tiger']",2,1
+mike,51,"Which fruit is known as the ""king of fruits"" and is famous for its odor?","['Apple', 'Orange', 'Durian']",3,1
+mike,51,What's the title of the song by Queen that lasts more than six minutes and was released in 1975?,"['Thriller', 'Bohemian Rhapsody', 'Stairway to Heaven']",2,1
+mike,51,Which company is known for creating the video game Super Mario?,"['Sega', 'Microsoft', 'Nintendo']",3,1
+mike,51,In which year did the Titanic sink?,"['1910', '1912', '1914']",2,1
+mike,51,Who is the author of the Harry Potter series?,"['Stephen King', 'Suzanne Collins', 'J.K. Rowling']",3,1
+mike,51,Which city is famous for its leaning tower?,"['Rome', 'Madrid', 'Pisa']",3,1
+mike,51,"Who is known as the ""Queen of Soul""?","['Diana Ross', 'Aretha Franklin', 'Whitney Houston']",2,1
+mike,51,Who is the fastest man alive?,"['Usain St. Leo Bolt', 'Michael Phelps', 'Lionel Messi']",2,1
+mike,51,Which element is represented by the symbol 'O' on the periodic table?,"['Hydrogen', 'Carbon', 'Oxygen']",3,1
+mike,51,"Who wrote the novel ""To Kill a Mockingbird""?","['John Steinbeck', 'Ernest Hemingway', 'Harper Lee']",3,1
+mike,51,"Which country is known as the ""Land Down Under""?","['New Zealand', 'South Africa', 'Australia']",3,&
+mike,51,Which city is famous for its canals and gondolas?,"['Venice', 'Paris', 'Amsterdam']",1,1
+mike,51,Who is the Greek god of love?,"['Hermes', 'Aphrodite', 'Athena']",2,1
+mike,51,What is the largest ocean on Earth?,"['Atlantic Ocean', 'Indian Ocean', 'Pacific Ocean']",3,1

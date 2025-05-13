@@ -1,0 +1,126 @@
+Quiz Results for mike
+==================================================
+
+Final Score: 8/20
+
+Question-wise Results:
+
+Question 1: What is the name of the fairy in Peter Pan?
+Your Answer: 1
+Correct Answer: 1
+Choices: Tinker Bell, Fairy Godmother, Blue Fairy
+==================================================
+
+Question 2: Which country is known as the "Land Down Under"?
+Your Answer: 1
+Correct Answer: 3
+Choices: New Zealand, South Africa, Australia
+==================================================
+
+Question 3: Who is known as the "Queen of Soul"?
+Your Answer: 1
+Correct Answer: 2
+Choices: Diana Ross, Aretha Franklin, Whitney Houston
+==================================================
+
+Question 4: What's the name of the river that runs through Egypt?
+Your Answer: 1
+Correct Answer: 3
+Choices: Amazon, Mississippi, Nile
+==================================================
+
+Question 5: Which animal is the symbol of WWF (World Wildlife Fund)?
+Your Answer: 1
+Correct Answer: 2
+Choices: Elephant, Panda, Tiger
+==================================================
+
+Question 6: Which element is represented by the symbol 'O' on the periodic table?
+Your Answer: 1
+Correct Answer: 3
+Choices: Hydrogen, Carbon, Oxygen
+==================================================
+
+Question 7: Who is the Greek god of love?
+Your Answer: 1
+Correct Answer: 2
+Choices: Hermes, Aphrodite, Athena
+==================================================
+
+Question 8: Who wrote the play Romeo and Juliet?
+Your Answer: 1
+Correct Answer: 1
+Choices: William Shakespeare, J.K. Rowling, Mark Twain
+==================================================
+
+Question 9: Which city is known as the "Big Apple"?
+Your Answer: 1
+Correct Answer: 1
+Choices: New York, Los Angeles, Chicago
+==================================================
+
+Question 10: Who played Jack Dawson in the movie Titanic?
+Your Answer: 1
+Correct Answer: 2
+Choices: Robert Pattinson, Leonardo DiCaprio, Johnny Depp
+==================================================
+
+Question 11: Who is the author of the novel "The Great Gatsby"?
+Your Answer: 1
+Correct Answer: 1
+Choices: F. Scott Fitzgerald, Ernest Hemingway, Mark Twain
+==================================================
+
+Question 12: Which animal is known as the King of the Jungle?
+Your Answer: 1
+Correct Answer: 3
+Choices: Elephant, Horse, Lion
+==================================================
+
+Question 13: Who is known as the "King of Pop"?
+Your Answer: 1
+Correct Answer: 2
+Choices: Elvis Presley, Michael Jackson, Justin Bieber
+==================================================
+
+Question 14: Who is known as the "King of Rock and Roll"?
+Your Answer: 1
+Correct Answer: 1
+Choices: Elvis Presley, Michael Jackson, Bob Dylan
+==================================================
+
+Question 15: What is the name of the coffee shop in the TV show Friends?
+Your Answer: 1
+Correct Answer: 3
+Choices: Bean There Brew That, Cuppa Joe, Central Perk
+==================================================
+
+Question 16: Which singer is known as the "Material Girl"?
+Your Answer: 1
+Correct Answer: 1
+Choices: Madonna, Beyonce, Taylor Swift
+==================================================
+
+Question 17: Who painted the Mona Lisa?
+Your Answer: 1
+Correct Answer: 3
+Choices: Vincent van Gogh, Pablo Picasso, Leonardo da Vinci
+==================================================
+
+Question 18: Which country is known as the Land of the Rising Sun?
+Your Answer: 1
+Correct Answer: 1
+Choices: Japan, China, Korea
+==================================================
+
+Question 19: In which year did the Titanic sink?
+Your Answer: 1
+Correct Answer: 2
+Choices: 1910, 1912, 1914
+==================================================
+
+Question 20: Which animal is known for its unique black and white coloration?
+Your Answer: 1
+Correct Answer: 1
+Choices: Panda, Elephant, Kangaroo
+==================================================
