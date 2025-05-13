@@ -1,0 +1,126 @@
+Quiz Results for &
+==================================================
+
+Final Score: 7/20
+
+Question-wise Results:
+
+Question 1: Which country is known as the "Land Down Under"?
+Your Answer: 1
+Correct Answer: 3
+Choices: New Zealand, South Africa, Australia
+==================================================
+
+Question 2: Who is known as the "King of Rock and Roll"?
+Your Answer: 1
+Correct Answer: 1
+Choices: Elvis Presley, Michael Jackson, Bob Dylan
+==================================================
+
+Question 3: Who is the author of "Pride and Prejudice"?
+Your Answer: 1
+Correct Answer: 2
+Choices: Emily Bronte, Jane Austen, Charles Dickens
+==================================================
+
+Question 4: What is the name of the fairy in Peter Pan?
+Your Answer: 1
+Correct Answer: 1
+Choices: Tinker Bell, Fairy Godmother, Blue Fairy
+==================================================
+
+Question 5: What's the name of the river that runs through Egypt?
+Your Answer: 1
+Correct Answer: 3
+Choices: Amazon, Mississippi, Nile
+==================================================
+
+Question 6: In which city would you find the Eiffel Tower?
+Your Answer: 1
+Correct Answer: 1
+Choices: Paris, London, New York
+==================================================
+
+Question 7: Which superhero is known as the "Caped Crusader"?
+Your Answer: 1
+Correct Answer: 2
+Choices: Superman, Batman, Spider-Man
+==================================================
+
+Question 8: Who is the Greek god of love?
+Your Answer: 1
+Correct Answer: 2
+Choices: Hermes, Aphrodite, Athena
+==================================================
+
+Question 9: Who painted the Mona Lisa?
+Your Answer: 1
+Correct Answer: 3
+Choices: Vincent van Gogh, Pablo Picasso, Leonardo da Vinci
+==================================================
+
+Question 10: Who is the author of the Harry Potter series?
+Your Answer: 1
+Correct Answer: 3
+Choices: Stephen King, Suzanne Collins, J.K. Rowling
+==================================================
+
+Question 11: What is the name of the coffee shop in the TV show Friends?
+Your Answer: 1
+Correct Answer: 3
+Choices: Bean There Brew That, Cuppa Joe, Central Perk
+==================================================
+
+Question 12: What is the name of the pirate in Peter Pan?
+Your Answer: 1
+Correct Answer: 1
+Choices: Captain Hook, Captain Crunch, Captain Morgan
+==================================================
+
+Question 13: Which city is known as the "Big Apple"?
+Your Answer: 1
+Correct Answer: 1
+Choices: New York, Los Angeles, Chicago
+==================================================
+
+Question 14: What is the capital of Japan?
+Your Answer: 1
+Correct Answer: 1
+Choices: Tokyo, Seoul, Beijing
+==================================================
+
+Question 15: Who is known as the "Queen of Pop"?
+Your Answer: 1
+Correct Answer: 2
+Choices: Britney Spears, Madonna, Lady Gaga
+==================================================
+
+Question 16: Which animal is known for its unique black and white coloration?
+Your Answer: 1
+Correct Answer: 1
+Choices: Panda, Elephant, Kangaroo
+==================================================
+
+Question 17: What is the name of the fictional African country in Black Panther?
+Your Answer: 1
+Correct Answer: 2
+Choices: Zamunda, Wakanda, Elbonia
+==================================================
+
+Question 18: Who is known as the "Queen of Soul"?
+Your Answer: 1
+Correct Answer: 2
+Choices: Diana Ross, Aretha Franklin, Whitney Houston
+==================================================
+
+Question 19: In which country would you find the Great Barrier Reef?
+Your Answer: 1
+Correct Answer: 2
+Choices: USA, Australia, Canada
+==================================================
+
+Question 20: Which animal is known as the King of the Jungle?
+Your Answer: 1
+Correct Answer: 3
+Choices: Elephant, Horse, Lion
+==================================================
